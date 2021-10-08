@@ -1,1 +1,1 @@
-Este é o caminho para o site [src](https://raphaelabarros.github.io/noticia-cidade/).
+Este é o caminho para o site [noticias cidade](https://raphaelabarros.github.io/noticias-cidade/).
